@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Leruitou</title>
+  <desc id="desc">A dark cyan banner with a pixel landscape and the motto make progress happen.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/><stop offset="1" stop-color="#123340"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="0" x2="670" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/><stop offset="1" stop-color="#22B8CF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#67E8F9" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+  <path d="M72 68H104" stroke="#22B8CF" stroke-width="4" stroke-linecap="round"/>
+  <text x="118" y="73" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="4">WELCOME TO MY CORNER</text>
+  <text x="70" y="163" fill="#F1F5F9" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Hi, I'm <tspan fill="url(#accent)">Leruitou</tspan><tspan fill="#22B8CF">.</tspan></text>
+  <text x="74" y="211" fill="#B3C5CE" font-family="Segoe UI,Arial,sans-serif" font-size="22" letter-spacing="2">make progress happen</text>
+  <text x="74" y="280" fill="#64828F" font-family="Consolas,monospace" font-size="13" letter-spacing="2">LERUITOU01 / ALWAYS IN PROGRESS</text>
+  <g shape-rendering="crispEdges">
+    <path d="M790 290V250H830V210H870V230H910V170H950V190H990V130H1030V150H1070V110H1110V290Z" fill="#164755"/>
+    <path d="M830 290V270H870V250H910V270H950V230H990V250H1030V210H1070V230H1110V190H1150V290Z" fill="#1D6470"/>
+    <path d="M910 170H950V180H910ZM990 130H1030V140H990ZM1070 110H1110V120H1070Z" fill="#67E8F9"/>
+    <rect x="966" y="67" width="7" height="7" fill="#67E8F9"/>
+    <rect x="1108" y="57" width="5" height="5" fill="#22B8CF"/>
+    <rect x="836" y="137" width="5" height="5" fill="#22B8CF"/>
+  </g>
+  <path d="M790 290H1150" stroke="#67E8F9" stroke-opacity=".2"/>
+</svg>
