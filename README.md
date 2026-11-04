@@ -6,7 +6,7 @@
 
 <img src="./assets/typing.svg" width="560" alt="Hello, world. Make progress happen." />
 
-**你好，我是 Leruitou。欢迎进入我的数字空间。**
+
 
 <a href="https://github.com/Leruitou01"><img src="https://img.shields.io/badge/GITHUB-LERUITOU01-0B1020?style=for-the-badge&amp;logo=github&amp;logoColor=67E8F9" alt="GitHub · Leruitou01" /></a>
 &nbsp;
@@ -41,9 +41,9 @@
 
 ### 🍃 / another portal
 
-代码之外，也在社区里留下足迹。
+火速游玩Fairylands服务器。
 
-在 FairyMC 找到另一个我。
+IP:FairyMC.cn。
 
 **[前往 FairyMC ↗](https://www.fairymc.cn/profile/Leruitou)**
 
