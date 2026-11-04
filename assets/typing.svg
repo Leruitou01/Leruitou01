@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="560" height="42" viewBox="0 0 560 42" role="img" aria-labelledby="title">
+<title id="title">Hello, world. Make progress happen.</title>
+<defs><clipPath id="reveal"><rect class="reveal" x="44" y="0" width="480" height="42"/></clipPath></defs>
+<style>.reveal{animation:typing 8s steps(34,end) infinite}.cursor{animation:blink 1s steps(2,end) infinite}@keyframes typing{0%,8%{width:0}65%,90%{width:480}100%{width:0}}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){.reveal,.cursor{animation:none}}</style>
+<text x="14" y="28" fill="#A78BFA" font-family="Consolas,monospace" font-size="19">&gt;</text>
+<g clip-path="url(#reveal)"><text x="44" y="28" fill="#22B8CF" font-family="Consolas,monospace" font-size="19" textLength="455" lengthAdjust="spacingAndGlyphs">Hello, world. Make progress happen.</text></g>
+<path class="cursor" d="M526 12V30" stroke="#A78BFA" stroke-width="2"/>
+</svg>

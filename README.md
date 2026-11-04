@@ -1,44 +1,70 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Hi, I'm Leruitou — make progress happen" />
+<img src="./assets/header.svg" width="100%" alt="Leruitou — welcome to my digital space" />
 
 <br />
 
-**你好，我是 Leruitou 👋**
+<img src="./assets/typing.svg" width="560" alt="Hello, world. Make progress happen." />
 
-把想法慢慢变成作品，让每一次尝试都有一点进步。
+**你好，我是 Leruitou。欢迎进入我的数字空间。**
 
-<a href="https://github.com/Leruitou01"><img src="https://img.shields.io/badge/GitHub-Leruitou01-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub · Leruitou01" /></a>
+<a href="https://github.com/Leruitou01"><img src="https://img.shields.io/badge/GITHUB-LERUITOU01-0B1020?style=for-the-badge&amp;logo=github&amp;logoColor=67E8F9" alt="GitHub · Leruitou01" /></a>
 &nbsp;
-<a href="https://www.fairymc.cn/profile/Leruitou"><img src="https://img.shields.io/badge/FairyMC-Leruitou-22B8CF?style=flat-square&amp;logoColor=white" alt="FairyMC · Leruitou" /></a>
+<a href="https://www.fairymc.cn/profile/Leruitou"><img src="https://img.shields.io/badge/FAIRYMC-LERUITOU-0B1020?style=for-the-badge" alt="FairyMC · Leruitou" /></a>
 
-<br />
-<br />
+<br /><br />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
 
-### ✦ About me
+### 🛸 / access granted
 
-```text
-  Leruitou / Leruitou01
-  ──────────────────────────────────────
-  一点好奇心，一些新想法，持续探索中。
-  make progress happen.
-```
+<img src="./assets/terminal.svg" width="100%" alt="个人终端：Leruitou，保持好奇，把想法变成作品，make progress happen。" />
 
-### ✦ Find me
+<br />
 
-| 入口 | 去看看 |
-| :--- | :--- |
-| 🧩 代码与仓库 | [Leruitou01 on GitHub](https://github.com/Leruitou01?tab=repositories) |
-| 🍃 社区个人页 | [Leruitou on FairyMC](https://www.fairymc.cn/profile/Leruitou) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### ✦ GitHub activity
+### 🧩 / code space
+
+每一个想法，都可以从第一次提交开始。
+
+探索、尝试，然后再向前走一步。
+
+**[打开我的仓库 ↗](https://github.com/Leruitou01?tab=repositories)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🍃 / another portal
+
+代码之外，也在社区里留下足迹。
+
+在 FairyMC 找到另一个我。
+
+**[前往 FairyMC ↗](https://www.fairymc.cn/profile/Leruitou)**
+
+</td>
+</tr>
+</table>
+
+### ⚡ / contribution signal
 
 <a href="https://github.com/Leruitou01?tab=overview"><img width="100%" src="https://ghchart.rshah.org/22b8cf/Leruitou01" alt="Leruitou01 的 GitHub 年度贡献日历" /></a>
 
 <br />
 
 <div align="center">
-  <sub>Thanks for stopping by · 感谢来访 ✨</sub>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<br />
+
+`STAY CURIOUS` &nbsp; ✦ &nbsp; `KEEP CREATING` &nbsp; ✦ &nbsp; `MAKE PROGRESS HAPPEN`
+
+<sub>感谢来访 · See you in the next commit.</sub>
+
 </div>

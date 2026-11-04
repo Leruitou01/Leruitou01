@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none" role="img" aria-labelledby="title">
+<title id="title">Leruitou's personal terminal</title>
+<rect x="1" y="1" width="1198" height="278" rx="14" fill="#0B1020" stroke="#26324B"/><path d="M1 44H1199" stroke="#26324B"/>
+<circle cx="26" cy="23" r="5" fill="#FB7185"/><circle cx="46" cy="23" r="5" fill="#FBBF24"/><circle cx="66" cy="23" r="5" fill="#34D399"/>
+<text x="600" y="28" text-anchor="middle" fill="#7C8BA7" font-family="Consolas,monospace" font-size="13">leruitou@github: ~ / about-me</text>
+<g font-family="Consolas,'Microsoft YaHei',monospace" font-size="18">
+<text x="34" y="86" fill="#67E8F9">❯ <tspan fill="#D5DDF0">cat profile.json</tspan></text>
+<text x="34" y="124" fill="#71829F">{</text>
+<text x="62" y="158" fill="#A78BFA">"name"<tspan fill="#71829F">    : </tspan><tspan fill="#A5E4CE">"Leruitou / Leruitou01",</tspan></text>
+<text x="62" y="192" fill="#A78BFA">"mindset"<tspan fill="#71829F"> : </tspan><tspan fill="#A5E4CE">"保持好奇，把想法变成作品",</tspan></text>
+<text x="62" y="226" fill="#A78BFA">"motto"<tspan fill="#71829F">   : </tspan><tspan fill="#A5E4CE">"make progress happen"</tspan></text>
+<text x="34" y="260" fill="#71829F">}</text></g>
+<path d="M1010 110L970 150L1010 190M1090 110L1130 150L1090 190M1065 96L1035 204" stroke="#A78BFA" stroke-opacity=".25" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
