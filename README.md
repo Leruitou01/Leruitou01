@@ -1,5 +1,3 @@
-﻿<img src="./assets/header.svg" width="100%" alt="Leruitou — 从想法到作品，一步一步搭起来" />
-
 # Leruitou
 
 保持好奇，把想法变成作品。
