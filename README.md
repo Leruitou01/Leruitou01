@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1200&amp;color=22B8CF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Building+Minecraft+server+plugins;Java+%C2%B7+Kotlin+%C2%B7+Paper+%C2%B7+BungeeCord;Make+progress+happen" width="680" alt="Building Minecraft server plugins with Java and Kotlin — make progress happen" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1200&amp;color=22B8CF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Java+%C2%B7+Kotlin+%C2%B7+Paper+%C2%B7+BungeeCord;Make+progress+happen" width="680" alt="Java and Kotlin — make progress happen" />
 
-**Leruitou** · Building Minecraft server plugins for moderation, parkour and music playback.
+**Leruitou**
 
 [GitHub](https://github.com/Leruitou01) · [FairyMC](https://www.fairymc.cn/profile/Leruitou)
 
