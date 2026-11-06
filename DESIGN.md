@@ -1,15 +1,16 @@
 ﻿# Profile design
 
-The profile connects two existing parts of Leruitou's space: code and FairyMC.
-It opens with the name and a short introduction, without a decorative banner.
+The profile follows the comprehensive layout from
+[mizane446](https://github.com/mizane446): compact animated introduction,
+Focus, Featured Projects, community links, Tech Stack, and Contributions.
 
-- Keep the original section order: introduction, repositories, FairyMC, contributions.
-- Use GitHub's native typography, theme colors, links and responsive document flow.
-- Keep body content as text; let the contribution calendar carry the visual detail.
-- Avoid glows, gradients and looping animation.
-- Keep the contribution calendar's link and alt text useful when its external image is unavailable.
+Content is based on the public READMEs of FairyReportLite, FairyLobbyParkour
+and FairyMediaPlayer. No external contribution claims or private projects are included.
+The profile is entirely in English and retains the existing account bio.
 
-Design process informed by [unslop](https://heydamir.design/unslop), by
-[Damir Sokolovsky (@heydamir)](https://x.com/heydamir), licensed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-The profile copy and layout were adapted for Leruitou's existing content.
+There is no decorative banner. The contribution snake is generated daily by
+GitHub Actions and published to the output branch, with light and dark variants.
+The typing SVG and technology icons use external image services.
+
+Prepared with [github-profile-optimizer](https://github.com/mizane446/github-profile-optimizer).
+No promotional credit is included in the public profile README, per the owner's preference.
