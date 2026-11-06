@@ -1,70 +1,35 @@
-﻿<div align="center">
+﻿<img src="./assets/header.svg" width="100%" alt="Leruitou — 从想法到作品，一步一步搭起来" />
 
-<img src="./assets/header.svg" width="100%" alt="Leruitou — welcome to my digital space" />
+# Leruitou
 
-<br />
+保持好奇，把想法变成作品。
 
-<img src="./assets/typing.svg" width="560" alt="Hello, world. Make progress happen." />
+[GitHub](https://github.com/Leruitou01) · [FairyMC](https://www.fairymc.cn/profile/Leruitou)
 
+## 关于我
 
+这里是 Leruitou / Leruitou01 的个人空间，记录探索、尝试，以及每一次向前的提交。
 
-<a href="https://github.com/Leruitou01"><img src="https://img.shields.io/badge/GITHUB-LERUITOU01-0B1020?style=for-the-badge&amp;logo=github&amp;logoColor=67E8F9" alt="GitHub · Leruitou01" /></a>
-&nbsp;
-<a href="https://www.fairymc.cn/profile/Leruitou"><img src="https://img.shields.io/badge/FAIRYMC-LERUITOU-0B1020?style=for-the-badge" alt="FairyMC · Leruitou" /></a>
+`make progress happen`
 
-<br /><br />
+## 代码空间
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+每一个想法，都可以从第一次提交开始。探索、尝试，然后再向前走一步。
 
-</div>
+[浏览我的仓库 →](https://github.com/Leruitou01?tab=repositories)
 
-### 🛸 / access granted
+## FairyMC
 
-<img src="./assets/terminal.svg" width="100%" alt="个人终端：Leruitou，保持好奇，把想法变成作品，make progress happen。" />
+在代码之外，也欢迎来 Fairylands 服务器一起游玩。
 
-<br />
+服务器地址：`FairyMC.cn`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[前往 FairyMC →](https://www.fairymc.cn/profile/Leruitou)
 
-### 🧩 / code space
+## 提交足迹
 
-每一个想法，都可以从第一次提交开始。
+<a href="https://github.com/Leruitou01?tab=overview"><img width="100%" src="https://ghchart.rshah.org/22b8cf/Leruitou01" alt="Leruitou01 的 GitHub 年度贡献日历，点击查看贡献详情" /></a>
 
-探索、尝试，然后再向前走一步。
+---
 
-**[打开我的仓库 ↗](https://github.com/Leruitou01?tab=repositories)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🍃 / another portal
-
-火速游玩Fairylands服务器。
-
-IP:FairyMC.cn。
-
-**[前往 FairyMC ↗](https://www.fairymc.cn/profile/Leruitou)**
-
-</td>
-</tr>
-</table>
-
-### ⚡ / contribution signal
-
-<a href="https://github.com/Leruitou01?tab=overview"><img width="100%" src="https://ghchart.rshah.org/22b8cf/Leruitou01" alt="Leruitou01 的 GitHub 年度贡献日历" /></a>
-
-<br />
-
-<div align="center">
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br />
-
-`STAY CURIOUS` &nbsp; ✦ &nbsp; `KEEP CREATING` &nbsp; ✦ &nbsp; `MAKE PROGRESS HAPPEN`
-
-<sub>感谢来访 · See you in the next commit.</sub>
-
-</div>
+See you in the next commit.

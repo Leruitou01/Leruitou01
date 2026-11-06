@@ -1,42 +1,30 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none" role="img" aria-labelledby="title">
-<title id="title">Leruitou — Digital Space</title>
-<defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070B17"/><stop offset=".6" stop-color="#11132C"/><stop offset="1" stop-color="#0B2431"/></linearGradient>
-<linearGradient id="neon"><stop stop-color="#67E8F9"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#E879F9"/></linearGradient>
-<radialGradient id="halo"><stop stop-color="#7C3AED" stop-opacity=".3"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
-<radialGradient id="planet"><stop stop-color="#14364C"/><stop offset=".7" stop-color="#0A172E"/><stop offset="1" stop-color="#162344"/></radialGradient>
-<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
-<clipPath id="bounds"><rect x="1" y="1" width="1198" height="438" rx="22"/></clipPath>
-</defs>
-<style>
-.orbit{transform-origin:963px 208px;animation:orbit 22s linear infinite}.spark{animation:pulse 3s ease-in-out infinite alternate}.spark2{animation:pulse 4s ease-in-out 1s infinite alternate}
-@keyframes orbit{to{transform:rotate(360deg)}}@keyframes pulse{from{opacity:.25}to{opacity:1}}
-@media(prefers-reduced-motion:reduce){.orbit,.spark,.spark2{animation:none}}
-</style>
-<g clip-path="url(#bounds)">
-<rect width="1200" height="440" fill="url(#bg)"/>
-<ellipse cx="960" cy="200" rx="330" ry="310" fill="url(#halo)"/>
-<g stroke="#6478B8" stroke-opacity=".15"><path d="M600 265L-300 440M600 265L0 440M600 265L240 440M600 265L430 440M600 265V440M600 265L770 440M600 265L960 440M600 265L1200 440M600 265L1500 440"/><path d="M0 282H1200M0 307H1200M0 342H1200M0 390H1200M0 438H1200"/></g>
-<path d="M0 265H1200" stroke="url(#neon)" stroke-opacity=".15"/>
-<g fill="#B9D9FF"><circle class="spark" cx="739" cy="57" r="2"/><circle class="spark2" cx="1120" cy="72" r="2"/><circle cx="1067" cy="339" r="1.5"/><circle cx="677" cy="189" r="1.5"/><circle cx="1148" cy="254" r="1"/><circle class="spark" cx="834" cy="357" r="2"/><circle cx="452" cy="45" r="1"/></g>
-<g transform="rotate(-26 963 208)"><ellipse cx="963" cy="208" rx="174" ry="63" stroke="#A78BFA" stroke-width="9" opacity=".3" filter="url(#glow)"/><ellipse cx="963" cy="208" rx="174" ry="63" stroke="url(#neon)" stroke-width="1.6"/></g>
-<circle cx="963" cy="208" r="96" fill="url(#planet)" stroke="#5B68B0" stroke-opacity=".5"/>
-<circle cx="963" cy="208" r="104" stroke="#67E8F9" stroke-opacity=".15" stroke-dasharray="2 10"/>
-<path d="M887 150A96 96 0 0 1 1035 145" stroke="#67E8F9" stroke-width="3" filter="url(#glow)"/>
-<path d="M887 150A96 96 0 0 1 1035 145" stroke="#8CDDFB" stroke-width="1.5"/>
-<path d="M807 250C849 272 989 254 1109 141" stroke="url(#neon)" stroke-width="2"/>
-<g class="orbit"><circle cx="963" cy="80" r="5" fill="#67E8F9"/><circle cx="963" cy="80" r="10" stroke="#67E8F9" stroke-opacity=".3"/></g>
-<text x="963" y="223" text-anchor="middle" fill="#C4B5FD" font-family="Consolas,monospace" font-size="45" font-weight="700">&lt;/&gt;</text>
-<path d="M65 58H95M65 58V88M1135 352V382H1105" stroke="#67E8F9" stroke-width="2"/>
-<circle class="spark" cx="88" cy="99" r="3" fill="#67E8F9"/>
-<text x="102" y="104" fill="#93B7CB" font-family="Consolas,monospace" font-size="12" letter-spacing="3">PERSONAL SPACE / 001</text>
-<text x="80" y="151" fill="#A78BFA" font-family="Consolas,monospace" font-size="16">Hello, traveler. I'm</text>
-<text x="75" y="234" fill="url(#neon)" font-family="Segoe UI,Arial,sans-serif" font-size="84" font-weight="800" letter-spacing="-3">Leruitou<tspan fill="#67E8F9">_</tspan></text>
-<text x="81" y="278" fill="#DAE3F0" font-family="Consolas,monospace" font-size="20" letter-spacing="2">make progress happen.</text>
-<rect x="81" y="322" width="260" height="30" rx="15" fill="#67E8F9" fill-opacity=".06" stroke="#67E8F9" stroke-opacity=".25"/>
-<circle class="spark" cx="98" cy="337" r="3" fill="#67E8F9"/>
-<text x="110" y="342" fill="#A5D8E5" font-family="Consolas,monospace" font-size="11" letter-spacing="1">IDEAS → COMMITS → PROGRESS</text>
-<text x="82" y="396" fill="#6F7D9B" font-family="Consolas,monospace" font-size="11" letter-spacing="2">GITHUB.COM / LERUITOU01</text>
-<text x="1110" y="396" text-anchor="end" fill="#6F7D9B" font-family="Consolas,monospace" font-size="11" letter-spacing="2">EXPLORE THE UNKNOWN ✦</text>
-</g><rect x="1" y="1" width="1198" height="438" rx="22" stroke="url(#neon)" stroke-opacity=".3"/>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Leruitou — 从想法到作品</title>
+  <desc id="desc">一条路径连接逐步搭高的方块，呼应代码提交与 Minecraft 中的搭建。深灰底色，青色强调，无动画。</desc>
+  <rect width="1200" height="320" rx="16" fill="#141819"/>
+  <g stroke="#F0F4F4" stroke-opacity=".12">
+    <path d="M48 64H1152M48 256H1152"/>
+    <path d="M672 96V224"/>
+  </g>
+  <g font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif">
+    <text x="48" y="44" fill="#A9B5B7" font-size="18">Leruitou / GitHub</text>
+    <text x="48" y="144" fill="#EFF4F4" font-size="40" font-weight="500">从想法到作品</text>
+    <text x="48" y="192" fill="#A9B5B7" font-size="24">一步一步搭起来</text>
+  </g>
+  <g stroke="#22B8CF" stroke-width="2" stroke-linejoin="round">
+    <path d="M736 208L816 160L896 208L992 152L1104 216" stroke-dasharray="4 8"/>
+    <path d="M744 176L784 152L824 176L784 200Z" fill="#283638" stroke="#5B7579"/>
+    <path d="M744 176V208L784 232V200Z" fill="#1D292B" stroke="#5B7579"/>
+    <path d="M784 200L824 176V208L784 232Z" fill="#233033" stroke="#5B7579"/>
+    <path d="M872 144L912 120L952 144L912 168Z" fill="#385458" stroke="#73969D"/>
+    <path d="M872 144V208L912 232V168Z" fill="#243B3F" stroke="#73969D"/>
+    <path d="M912 168L952 144V208L912 232Z" fill="#2D484D" stroke="#73969D"/>
+    <path d="M1000 112L1040 88L1080 112L1040 136Z" fill="#70D4DF"/>
+    <path d="M1000 112V208L1040 232V136Z" fill="#238899"/>
+    <path d="M1040 136L1080 112V208L1040 232Z" fill="#2DA7B9"/>
+  </g>
+  <g font-family="Consolas,monospace" font-size="16" fill="#A9B5B7">
+    <text x="48" y="292">make progress happen</text>
+    <text x="1152" y="292" text-anchor="end">idea → commit → build</text>
+  </g>
 </svg>
